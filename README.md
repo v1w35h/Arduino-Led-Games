@@ -6,3 +6,4 @@ The other components are BTF lighting 16x16 matrix WS2812B board, bread board/ c
 
 https://github.com/user-attachments/assets/e1e44fe5-5461-4ea7-ac0e-51dabf8ac386
 
+This project is based on a project made by Peter Hoffman. 
